@@ -2,8 +2,6 @@
 
 Read More about this experamint on: [Vite vs SWC vs Webpack: A Performance Comparison for React Applications](https://younisjad.medium.com/vite-vs-swc-vs-webpack-a-performance-comparison-for-react-applications-1384553c659d)
 
-![Alt text](https://miro.medium.com/v2/resize%253Afit%253A1400/format%253Awebp/1%252AVpcgcF4KS4hzHipEbDYrVw.png)
-
 ## Performance Check for React Build Tools
 
 This performance check aims to compare three commonly used build tools for developing and building a React application: Vite + SWC, Vite with Babel.js, and Create React App. The check analyzes the run time, build time, and bundle size of each build tool to provide developers with insights on their performance.
